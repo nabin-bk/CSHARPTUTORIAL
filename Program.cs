@@ -1,9 +1,22 @@
 ﻿using System;
 
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, Rajan!");
+    // Question1 q1 = new Question1();
+   q1.DisplayName();
+
+Question2 q2= new Question2();
+    q2.GetInput();
+
+
+
+
+
+
+
     }
+
+
 }
