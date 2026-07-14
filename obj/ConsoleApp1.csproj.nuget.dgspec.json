@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\class12\\Documents\\Csharptutorial\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\User Nabin\\CSHARPTUTORIAL\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\class12\\Documents\\Csharptutorial\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\User Nabin\\CSHARPTUTORIAL\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\class12\\Documents\\Csharptutorial\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\User Nabin\\CSHARPTUTORIAL\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\class12\\Documents\\Csharptutorial\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\class12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\class12\\Documents\\Csharptutorial\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\User Nabin\\CSHARPTUTORIAL\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\User Nabin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User Nabin\\CSHARPTUTORIAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\class12\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User Nabin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

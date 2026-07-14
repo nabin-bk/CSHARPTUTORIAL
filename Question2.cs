@@ -1,27 +1,19 @@
 using System;
 
 public class Question2
-
 {
-    
     public void GetInput()
     {
-        Console.WriteLine("Enter the first number");
-         int Num1 = Convert.ToInt32(Console.ReadLine());
+        // Declare two integer variables
+        int Num1 = 10;
+        int Num2 = 20;
 
+        // Add the numbers
+        int Sum = Num1 + Num2;
 
-
-         Console.WriteLine("Enter the second number");
-         int Num2 = Convert.ToInt32(Console.ReadLine());
-
-
-
-         int  Sum = Num1 + Num2;
-
-          Console.WriteLine($"The Sum of {Num1} and {Num2} is : {Sum}");
-         
-
-
+        // Display the result
+        Console.WriteLine("First Number: " + Num1);
+        Console.WriteLine("Second Number: " + Num2);
+        Console.WriteLine("Sum = " + Sum);
     }
-
-    }
+}
