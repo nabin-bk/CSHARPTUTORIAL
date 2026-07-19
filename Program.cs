@@ -18,12 +18,25 @@ public class Program
     // q4.Circle();
 
 
-    Question5 q5= new Question5();
-    q5.SwapNumbers();
+    // Question5 q5= new Question5();
+    // q5.SwapNumber();
 
+    // Question6 q6= new Question6();
+    // q6.Swap();
 
+    //  Question7 q7= new Question7();
+    // q7.Perimeter();
 
+     // Question8 q8 = new Question8();
+    // q8.SimpleInterest();
 
+       // Question9 q9 = new Question9();
+       // q9.AverageMarks();
+
+    //    Question10 q10 = new Question10();
+    //    q10.Temperature();
+
+  
 
     }
      

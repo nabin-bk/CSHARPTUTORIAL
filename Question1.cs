@@ -1,3 +1,4 @@
+// Declare variables to store your name, age, and city, then display them.
 using System;
 
 public class Question1

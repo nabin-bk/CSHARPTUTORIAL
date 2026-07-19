@@ -1,23 +1,24 @@
+// Swap the values of two variables using a third variable.
 using System;
 
 public class Question5
 {
-    public void SwapNumbers()
+    public void SwapNumber()
     {
-        int Num1 = 10;
-        int Num2 = 20;
+        int num1 = 10;
+        int num2 = 20;
+        
 
-        Console.WriteLine($"Before Swapping:");
-        Console.WriteLine($"Num1 = {Num1}");
-        Console.WriteLine($"Num2 = {Num2}");
+        int num3 = num1;
+        num1 = num2;
+        num2 = num3;
+        
 
-    
-        int Temporary = Num1;
-        Num1 = Num2;
-        Num2 = Temporary;
+        Console.WriteLine($"num1 is {num1}");
+        Console.WriteLine($"num2 is {num2}");
+       
 
-        Console.WriteLine($"After Swapping:");
-        Console.WriteLine($"Num1 = {Num1}");
-        Console.WriteLine($"Num2 = {Num2}");
     }
-}
+
+
+    }
